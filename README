@@ -1,0 +1,8 @@
+cargo build
+cargo run
+
+F10 for enable / disable. 
+
+Current problem: 
+1. Icon not showing and changing
+2. amar = আ+ম+আ+র and final output is only র! 
